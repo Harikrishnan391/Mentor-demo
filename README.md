@@ -1,5 +1,6 @@
 # Mentor-demo
-this is my first git hub project 
+
+this is my first git hub project
 
 <br>
-Author Harikrishnan V K
+Author Harikrishnan V K (N.paravoor)
